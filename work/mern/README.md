@@ -183,7 +183,20 @@ The application uses environment variables for configuration. Key configuration 
 
 ---
 
-## Development Approach
+## 📸 Screenshots
+
+### Login Screen
+![Login Screen](Attendance_tracker\work\mern\images\Screenshot 2026-01-18 205040.png)
+
+### Admin Dashboard
+![Admin Dashboard](images/admin-dashboard.png)
+
+### Attendance Module
+![Attendance](images/attendance.png)
+
+### Reports & Analytics
+![Reports](images/reports.png)
+
 
 ### Code Quality Practices
 
