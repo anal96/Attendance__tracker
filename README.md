@@ -183,7 +183,51 @@ The application uses environment variables for configuration. Key configuration 
 
 ---
 
-## Development Approach
+## 📸 Screenshots
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="work/mern/images/Screenshot 2026-01-18 205040.png" width="600"><br>
+      <b>Login Screen</b><br>
+      <sub>Secure role-based authentication</sub>
+    </td>
+    <td align="center">
+      <img src="work/mern/images/Screenshot 2026-01-18 204853.png" width="600"><br>
+      <b> Employee Dashboard</b><br>
+      <sub>Role-specific overview panel</sub>
+    </td>
+    <td align="center">
+      <img src="work/mern/images/Screenshot 2026-01-18 205010.png" width="600"><br>
+      <b>Manager dashboard</b><br>
+      <sub>Role-specific overview pane</sub>
+    </td>
+     <td align="center">
+      <img src="work/mern/images/Screenshot 2026-01-18 204936.png" width="600"><br>
+      <b>WFH</b><br>
+      <sub>Work from home monitor</sub>
+    </td> <td align="center">
+      <img src="work/mern/images/Screenshot 2026-01-18 204924.png" width="600"><br>
+      <b>Admin dashboard </b><br>
+      <sub>Role-specific overview pane</sub>
+    </td>
+    <td align="center">
+      <img src="work/mern/images/Screenshot_2026_0119_001958.png" width="600"><br>
+      <b>auto mail leave approved</b><br>
+      <sub>mail sc shots</sub>
+    </td>
+      <td align="center">
+      <img src="work/mern/images/Screenshot_2026_0119_001930.png" width="600"><br>
+      <b>auto mail late arrival </b><br>
+      <sub>mail sc shots</sub>
+    </td>  <td align="center">
+      <img src="work/mern/images/Screenshot_2026_0119_001902.png" width="600"><br>
+      <b>WTF loaction spoofing auto mail </b><br>
+      <sub>mail sc shots</sub>
+    </td>
+  </tr>
+</table>
+
 
 ### Code Quality Practices
 
@@ -260,6 +304,6 @@ This project and its contents are proprietary and confidential. No license is gr
 
 **Professional Portfolio Project - MERN Stack Implementation**
 
-*For inquiries regarding this project, please contact the repository owner.*
+*For inquiries regarding this project, please text ME.*
 
 </div>
