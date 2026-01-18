@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>home</title>
+        	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css">
+          <link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">
+    </head>
+    <body>
+       <!-- navbar login -->
+ <nav class="navbar navbar-expand-lg">
+    <div class="container px-0">
+       <a class="navbar-brand" href="../index.html"><img src="../assets/images/brand/logo/logo.svg" alt="" /></a>
+       <div class="d-flex align-items-center order-lg-3 ms-lg-3">
+          <div class="d-flex align-items-center">
+             <div class="dropdown me-2">
+                <button
+                   class="btn btn-light btn-icon rounded-circle d-flex align-items-center bd-theme"
+                   type="button"
+                   aria-expanded="false"
+                   data-bs-toggle="dropdown"
+                   aria-label="Toggle theme (auto)">
+                <i class="bi theme-icon-active"></i>
+                <span class="visually-hidden bs-theme-text">Toggle theme</span>
+                </button>
+                <ul class="dropdown-menu dropdown-menu-end shadow" aria-labelledby="bs-theme-text">
+                   <li>
+                      <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false">
+                      <i class="bi theme-icon bi-sun-fill"></i>
+                      <span class="ms-2">Light</span>
+                      </button>
+                   </li>
+                   <li>
+                      <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" aria-pressed="false">
+                      <i class="bi theme-icon bi-moon-stars-fill"></i>
+                      <span class="ms-2">Dark</span>
+                      </button>
+                   </li>
+                   <li>
+                      <button
+                         type="button"
+                         class="dropdown-item d-flex align-items-center active"
+                         data-bs-theme-value="auto"
+                         aria-pressed="true">
+                      <i class="bi theme-icon bi-circle-half"></i>
+                      <span class="ms-2">Auto</span>
+                      </button>
+                   </li>
+                </ul>
+             </div>
+             <a href="/login" class="btn btn-outline-primary me-2">Sign in</a>
+             <a href="/register" class="btn btn-primary d-none d-md-block">
+             Sign up
+             </a>
+          </div>
+          <button
+             class="navbar-toggler collapsed"
+             type="button"
+             data-bs-toggle="collapse"
+             data-bs-target="#navbar-default5"
+             aria-controls="navbar-default5"
+             aria-expanded="false"
+             aria-label="Toggle navigation">
+          <span class="icon-bar top-bar mt-0"></span>
+          <span class="icon-bar middle-bar"></span>
+          <span class="icon-bar bottom-bar"></span>
+          </button>
+       </div>
+       <!-- Button -->
+       <!-- Collapse -->
+       <div class="collapse navbar-collapse" id="navbar-default5">
+          <ul class="navbar-nav ms-auto">
+             <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
+             </li>
+             <li class="nav-item">
+                <a class="nav-link" href="#">Link</a>
+             </li>
+             <li class="nav-item dropdown">
+                <a
+                   class="nav-link dropdown-toggle"
+                   href="#"
+                   id="navbarDropdown"
+                   data-bs-toggle="dropdown"
+                   aria-haspopup="true"
+                   aria-expanded="false"
+                   data-bs-display="static">
+                Dropdown
+                </a>
+                <ul class="dropdown-menu dropdown-menu-arrow" aria-labelledby="navbarDropdown">
+                   <li class="dropdown-submenu dropend">
+                      <a class="dropdown-item dropdown-list-group-item dropdown-toggle" href="#">Dropdown</a>
+                      <ul class="dropdown-menu">
+                         <li>
+                            <a class="dropdown-item" href="../pages/course-category.html">Action Link</a>
+                         </li>
+                         <li>
+                            <a href="#!" class="dropdown-item">Anthor Action</a>
+                         </li>
+                         <li>
+                            <a href="#!" class="dropdown-item">Something else here</a>
+                         </li>
+                      </ul>
+                   </li>
+                   <li>
+                      <a href="#!" class="dropdown-item">Action Link</a>
+                   </li>
+                   <li>
+                      <a href="#!" class="dropdown-item">Anthor Action</a>
+                   </li>
+                   <li>
+                      <a href="#!" class="dropdown-item">Something else here</a>
+                   </li>
+                </ul>
+             </li>
+          </ul>
+       </div>
+    </div>
+ </nav>
+        	 <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+        </body>
+</html>
