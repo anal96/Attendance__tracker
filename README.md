@@ -222,7 +222,7 @@ The application uses environment variables for configuration. Key configuration 
       <sub>mail sc shots</sub>
     </td>  <td align="center">
       <img src="work/mern/images/Screenshot_2026_0119_001902.png" width="600"><br>
-      <b>WTF loaction spoofing auto mail </b><br>
+      <b>WFH loaction spoofing auto mail </b><br>
       <sub>mail sc shots</sub>
     </td>
   </tr>
